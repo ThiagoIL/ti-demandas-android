@@ -1,0 +1,6 @@
+{
+  "name": "TI Demandas",
+  "description": "Aplicativo de gestão de chamados técnicos integrando banco de dados MySQL e bucket Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
